@@ -71,7 +71,4 @@
 
 또한, 모델이 다양한 사용자 의견의 뉘앙스를 얼마나 잘 파악하는지 테스트하면서, 감성 분석의 한계와 함께 더 나은 피처 엔지니어링 방법에 대한 아이디어도 발전시킬 수 있었습니다.
 
-   
-    - 
-
-    출처 : ("https://www.kaggle.com/datasets/mohitksharma/fifa-vs-pes-review-war?select=FIFA.csv")
+[출처]("https://www.kaggle.com/datasets/mohitksharma/fifa-vs-pes-review-war?select=FIFA.csv")</br>
