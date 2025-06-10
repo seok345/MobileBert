@@ -56,7 +56,8 @@
 | 8     | Ali FanBoy       | Best game ever                           | 5     | 2022-03-23 13:30:00 |
 | 9     | Syed Ammar       | Very nice and has a lot of good character| 4     | 2022-03-23 13:29:00 |
 
-데이터 : [kaggle](https://www.kaggle.com/datasets/mohitksharma/fifa-vs-pes-review-war?select=FIFA.csv) 에서 데이터셋을 들고와 엑셀파일을 전처리 하며 csv파일로 변경(fifa_cleaned)
+데이터 : [kaggle](https://www.kaggle.com/datasets/mohitksharma/fifa-vs-pes-review-war?select=FIFA.csv) 에서 피파 데이터셋을 들고와 엑셀파일을 전처리 하며 csv파일로 변경(fifa_cleaned)
+
 전처리 방식:  
  3점(중립) 리뷰 제거  
  리뷰 길이 20자 미만 제거  
