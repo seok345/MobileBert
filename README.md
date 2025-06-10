@@ -95,7 +95,7 @@
 유저들이 남긴 리뷰 텍스트의 감성 트렌드와 일치하는 분석 결과 도출 가능
 
 ## 결과 화면:
-![긍정이 많은순](https://raw.githubusercontent.com/seok345/MobileBert/main/png/1.png)
+긍정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/1.png)
 
 
 
