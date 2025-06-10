@@ -95,10 +95,11 @@
 유저들이 남긴 리뷰 텍스트의 감성 트렌드와 일치하는 분석 결과 도출 가능
 
 ## 결과 화면:
-긍정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/1.png)
-부정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/2.png)
-긍부정 많은 순으로 비교 ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/3.png)
-학습후 정확도 결과 이미지:![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/4.png)
+### 긍정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/1.png)
+### 부정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/2.png)
+### 긍부정 많은 순으로 비교 ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/3.png)
+
+### 학습후 정확도 결과 이미지:![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/4.png)
 
 
 
