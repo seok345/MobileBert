@@ -50,8 +50,33 @@
     - 1~2점 → 부정(0)  
     - 4~5점 → 긍정(1)
    
- [엑셀 원본 파일 ](https://docs.google.com/spreadsheets/d/1AbcD1234XYZ5678/edit?usp=sharing)
-[전처리 파일]([https://docs.google.com/spreadsheets/d/1AbcD1234XYZ5678/edit?usp=sharing](https://drive.google.com/file/d/1nk4Yc0F3g0OkTN4XVNS-v0H4wuN5CfnQ/view?usp=drive_link))
+ 엑셀 원본 파일:
+ | index | userName        | content                                  | score | at                  |
+|-------|------------------|------------------------------------------|-------|---------------------|
+| 0     | Aastha Ranjitkar | Wow great game                           | 5     | 2022-03-23 13:40:00 |
+| 1     | Arun Sharma      | Nice game football                       | 4     | 2022-03-23 13:40:00 |
+| 2     | Arya Nandha      | Good                                     | 5     | 2022-03-23 13:37:00 |
+| 3     | Ramesh Murali    | In hard mode my player...                | 1     | 2022-03-23 13:36:00 |
+| 4     | Nandita Biswas   | Bad game had dawon                       | 1     | 2022-03-23 13:36:00 |
+| 5     | Ishrak Araf      | ?뵦                                      | 5     | 2022-03-23 13:35:00 |
+| 6     | winn kyaw soe    | I like this game.                        | 5     | 2022-03-23 13:33:00 |
+| 7     | pheromotone b.   | good                                     | 5     | 2022-03-23 13:32:00 |
+| 8     | Ali FanBoy       | Best game ever                           | 5     | 2022-03-23 13:30:00 |
+| 9     | Syed Ammar       | Very nice and has a lot of good character| 4     | 2022-03-23 13:29:00 |
+
+전처리 파일: 
+| unnamed: 0 | username           | userimage    | content                 | score | thumbsupcount  | reviewcreatedversion   | at                  | replycontent  | as |
+|------------|--------------------|------------- |-------------------------|-------|----------------|------------------------|---------------------|---------------|----|
+| 3          | Ramesh Murali      | https://...  | In hard mode my play... | 1     | 0              | 15.5.04                | 2022-03-23 13:36:00 | NaN           | 0  |
+| 9          | Syed Ammar         | https://...  | Very nice and has a ... | 4     | 0              | NaN                    | 2022-03-23 13:29:00 | NaN           | 1  |
+| 12         | Komikedy           | https://...  | Things that need to ... | 5     | 0              | 15.5.04                | 2022-03-23 13:21:00 | NaN           | 1  |
+| 13         | onuh rose          | https://...  | Remains the best soc... | 5     | 0              | NaN                    | 2022-03-23 13:20:00 | NaN           | 1  |
+| 18         | ameerul tafhim     | https://...  | this game so good bu... | 4     | 0              | NaN                    | 2022-03-23 13:14:00 | NaN           | 1  |
+| 20         | Aqish Mieqheal     | https://...  | Please gift me Neyma... | 5     | 0              | NaN                    | 2022-03-23 13:06:00 | NaN           | 1  |
+| 21         | Achraf Yahiaoui    | https://...  | The game play need t... | 2     | 0              | 15.5.04                | 2022-03-23 12:59:00 | NaN           | 0  |
+| 23         | Safiqul alam Boksh | https://...  | The game is dogsh*t.... | 1     | 0              | 15.5.04                | 2022-03-23 12:56:00 | NaN           | 0  |
+| 24         | WOLF GAMER         | https://...  | Forget the last time... | 1     | 4              | 15.5.04                | 2022-03-23 12:56:00 | NaN           | 0  |
+| 25         | saif hashmi        | https://...  | Why am I getting tea... | 1     | 0              | NaN                    | 2022-03-23 12:55:00 | NaN           | 0  |
 
      
   3-1. 사용 환경 및 패키지
