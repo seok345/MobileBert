@@ -49,6 +49,10 @@
   - 점수 기반 라벨링:  
     - 1~2점 → 부정(0)  
     - 4~5점 → 긍정(1)
+   
+ [엑셀 원본 파일 ](https://docs.google.com/spreadsheets/d/1AbcD1234XYZ5678/edit?usp=sharing)
+[전처리 파일]([https://docs.google.com/spreadsheets/d/1AbcD1234XYZ5678/edit?usp=sharing](https://drive.google.com/file/d/1nk4Yc0F3g0OkTN4XVNS-v0H4wuN5CfnQ/view?usp=drive_link))
+
      
   3-1. 사용 환경 및 패키지
 개발 환경: Python 3.9 이상, Jupyter Notebook 또는 PyCharm 환경
@@ -61,6 +65,8 @@
 3-3. 실제 적용과 평가
 특정 선수 리뷰 데이터에 모델을 적용하였을 때, 긍정/부정 예측 정확도는 약 85% 이상으로 나타남
 유저들이 남긴 리뷰 텍스트의 감성 트렌드와 일치하는 분석 결과 도출 가능
+
+
 
 ### 느낀 점과 배운 점
 이번 프로젝트를 통해 데이터 전처리와 정제의 중요성을 다시 한번 깨달았습니다.
