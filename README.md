@@ -98,6 +98,7 @@
 ### 긍정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/1.png)
 ### 부정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/2.png)
 ### 긍부정 많은 순으로 비교: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/3.png)
+### 학습 후 결과 이미지: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/5.png)
 ### 학습후 정확도 결과 이미지: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/4.png)
 
 
