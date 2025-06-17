@@ -92,9 +92,9 @@
 ### 학습후 정확도 결과 이미지: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/4.png)
 ##  계속 학습을 시킨 저장된 모델을  정확도를 보기 위해 실행을 시켜보니 87%까지 도달했으며
 ### 긍정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/1.png)
-## 이렇게 학습을 시키고 정확도를 확인하고 그래프로 긍정이 많은 순으로 보면 22년 1월이 긍정리뷰가 제일 많이 있는것으로 알수있었으며 
+## 이렇게 학습을 시키고 정확도를 확인하고 그래프로 긍정이 많은 순으로 보면 22년 1월이 긍정리뷰가 제일 많이 있는것으로 알수있었고
 ### 부정이 많은순: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/2.png)
-## 부정이 많은 순으로 그래프를 보면 긍정과 같이 22년 1월이 부정리뷰가 제일 많이 있는것으로 알수있었고 
+## 부정이 많은 순으로 그래프를 보면 긍정과 같이 22년 1월이 부정리뷰가 제일 많이 있는것으로 알수있었으며며
 ### 긍부정 많은 순으로 비교: ![이미지](https://raw.githubusercontent.com/seok345/MobileBert/main/png/3.png)
 ## 긍정, 부정리뷰를 비교해보면 22년 1월리뷰가 압도적으로 리뷰부터 많으며 긍정리뷰가 많아도 부정 리뷰가 많은 것을 볼수있습니다
 
